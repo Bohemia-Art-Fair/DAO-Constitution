@@ -1,3 +1,5 @@
+# ** NOT THE OFFICIAL MANUSCRIPT, CHECK [BOHEMIA WEB][https://www.bohemia.gallery/] FOR THE OFFICIAL ONE **
+
 # Manuscript
 
 ![](.gitbook/assets/0)
