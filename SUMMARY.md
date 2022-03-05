@@ -6,3 +6,4 @@
 ## Governance
 
 * [Chapter One](governance/chapter-one.md)
+* [Chapter Two](governance/chapter-two.md)
