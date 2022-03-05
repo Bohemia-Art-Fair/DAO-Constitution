@@ -1,4 +1,4 @@
-# *** NOT THE OFFICIAL MANUSCRIPT, CHECK [BOHEMIA WEB][https://www.bohemia.gallery/] FOR THE OFFICIAL ONE ***
+# NOT THE OFFICIAL MANUSCRIPT, CHECK https://www.bohemia.gallery FOR THE OFFICIAL ONE
 
 # Manuscript
 
