@@ -1,2 +1,2 @@
-# Page 1
+Repository for the creation of the Bohemia DAO Constitution documents
 
